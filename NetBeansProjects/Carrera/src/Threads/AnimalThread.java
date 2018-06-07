@@ -44,6 +44,7 @@ public class AnimalThread extends Thread{
             } catch(InterruptedException e){
                 e.printStackTrace();
             }
+            int a;
         }
         System.out.println(this.nombre + " a llegado a la meta");
         
